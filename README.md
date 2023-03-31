@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abdullah3366
 - 👀 I’m interested in Gameplay Programming
-- 🌱 I’m currently learning Unreal Engine 4
-- 💞️ I’m looking to collaborate on Indie Game Projects
+- 🌱 I’m currently working in Unreal Engine 5
+- 💞️ I’m looking to contribute to this beautiful industry
 - 📫 you can reach me at atariq51@gmail.com
 
 <!---
